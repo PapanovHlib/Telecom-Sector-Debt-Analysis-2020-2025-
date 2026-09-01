@@ -1,0 +1,9 @@
+# Purpose of the Project
+
+This project demonstrates SQL and Tableau proficiency for corporate finance by analysing debt structures and leverage across five major US telecom companies (2020-2025). Using PostgreSQL queries and interactive dashboards, I was able to assess which companies were the safest investment based on the riskiness of their debt.
+
+# Key Findings
+
+My analysis identified two distinct investment opportunities among the five telecom companies studied. Comcast Corporation emerges as the safest investment option, demonstrating strong financial metrics across all key ratios in 2025: debt-to-equity of 1.08x (within healthy range), interest coverage of 4.80x (above benchmark), debt-to-EBITDA of 4.96x (the lowest among companies studied), and reasonable borrowing costs of 4.2% WACD. Comcast's balanced capital structure, moderate leverage, and disciplined approach to debt management position it as a lower-risk, stable-return opportunity suitable for conservative investors prioritizing capital preservation.
+
+In contrast, Charter Communications represents a high-risk, high-reward turnaround opportunity. While Charter exhibits concerning leverage metrics—debt-to-equity of 6.14x, elevated borrowing costs at 5.12%, and high debt-to-revenue ratio of 1.8x—a critical strength of this company is its operating cash flow ratio (2.3x), which demonstrates the company's ability to generate substantial cash from operations despite high debt levels. This cash generation capability, combined with Charter's demonstrable deleveraging progress (D/E declining from 10.85x in 2022 to 6.14x in 2025), suggests significant upside potential. For an acquirer with restructuring expertise, Charter presents a high-reward opportunity: effective debt optimization and operational improvements could unlock substantial value.
